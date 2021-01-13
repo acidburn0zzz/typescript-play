@@ -18,7 +18,7 @@
   "license": "ISC",
   "dependencies": {
     "monaco-editor": "^0.17.1",
-    "serve": "^6.5.3"
+    "serve": "^10.1.2"
   },
   "devDependencies": {
     "gh-pages": "^1.1.0"
